@@ -103,3 +103,29 @@
    text-align: center;
    color: $black;
  }
+
+ .items {
+   width: 100px;
+
+ }
+
+ .pokemon {
+   width: 30px;
+ }
+
+.pokedex {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row-reverse;
+  
+}
+.left {
+  align-self: left;
+}
+ .pokemon-details {
+   align-self: left;
+ }
+
+.pokemon-items {
+
+}
